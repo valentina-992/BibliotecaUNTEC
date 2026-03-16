@@ -1,0 +1,8 @@
+/bin/
+/target/
+/build/
+*.class
+*.war
+.settings
+.project
+.metadata
